@@ -1,4 +1,4 @@
-# Advertising Data
+# Ad Click Predictor
 
 ## Overview
 Working with a fake advertising dataset indicating whether or not a particular internet user clicked on an Advertisement.
